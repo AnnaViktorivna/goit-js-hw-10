@@ -23,3 +23,22 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+.wrap {
+  width: 1440px;
+  padding: 100px;
+}
+.page-list {
+}
+.page-list-item {
+}
+.page-link {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 1.5em;
+  letter-spacing: 0.64px;
+  border-radius: 4px 4px 0px 4px;
+  border-bottom: 2px solid #bb7b10;
+}
