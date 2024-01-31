@@ -1,7 +1,9 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
+// Описаний у документації
 import iziToast from 'izitoast';
-import 'iziToast/dist/css/iziToast.min.css';
+// Додатковий імпорт стилів
+import 'izitoast/dist/css/iziToast.min.css';
 
 let userSelectedDate;
 const activeButton = document.querySelector('[data-start]');
